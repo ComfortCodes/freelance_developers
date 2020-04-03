@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+h1 {
+  font-family: 'Roboto Mono', monospace;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
